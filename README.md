@@ -71,9 +71,3 @@ The processed data will be saved in the specified output CSV file, which can be 
 ## Notes
 - Please ensure that the input files (reference file and raw data file) are correctly named and located in the same directory as this script.
 - Make sure that the CSV files are properly formatted with the required data.
-
-Feel free to reach out for any further assistance or questions.
-
----
-
-You can save this content as a README.txt or README.md file in the same directory as your R script to provide clear instructions and explanations for users who may want to use your script.
